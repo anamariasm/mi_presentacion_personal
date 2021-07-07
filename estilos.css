@@ -17,14 +17,15 @@ strong {
 
 
 i{
-    font-size: 20px;
+    font-size: 50px;
     text-align: justify;
-    padding-left: ;
+    padding-left: 50px;
 }
 
 ol{
-    font-size: 20px;
+    font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 100px;
 }
 
 
@@ -34,7 +35,11 @@ ol{
     margin-right: auto;
 }
 
+a { font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 50px;
 
+}
 
 body{
     background-color: black;
